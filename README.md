@@ -1,5 +1,5 @@
 # ⭐ About Me:
-I am Andrija Vujović (Trox), a Computer Science student<br>and Red Hat Ambassador with a strong focus on Digital Forensics.<br>Passionate about solving complex security challenges <br>and dedicated to promoting open-source technologies.
+I am Andrija Vujović (Trox), a Computer Science student<br>with a strong focus on Offensive Security.<br>Passionate about solving security challenges <br>and dedicated to promoting open-source technologies.
 
 
 ## 🌐 Socials:
